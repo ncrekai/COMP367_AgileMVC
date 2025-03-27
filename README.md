@@ -1,1 +1,2 @@
-# COMP367_AgileMVC
+# COMP367_AgileMVC 
+Agile project for movie web app
